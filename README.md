@@ -24,4 +24,4 @@ Wifeframes present visual or graphical representation of a project. In other wor
 ## Wireframe in Practice
 - During my Professional Foundation learning days, my team developed a wireframe for the development of an E-commerce website for farmers to sell their produce. In review of the wireframe with farmers, one key usability issue that we encountered was authentication. Apparently users preferred OTP authentication whereas the development team innitially thought this feature would have been too technical for the peasant farmer to understand.
 - Wireframes provide the visual mockup of the project capturing the key elements that will enhance the user experience.
-- 
+
